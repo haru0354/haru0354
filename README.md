@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 はじめまして！
 
-<!--
-**haru0354/haru0354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+未経験からエンジニアを目指して学習・就活中です。
 
-Here are some ideas to get you started:
+フロントエンドを中心にバックエンドの勉強もしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥 [ポートフォリオサイト](https://my-portfolio-engineer.com/)
+
+## 🛠️ 技術スタック
+
+### フロントエンド（言語・ライブラリ・フレームワーク）
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs	)](https://skillicons.dev)
+
+### バックエンド(言語・ライブラリ・フレームワーク)
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)](https://skillicons.dev)
+
+### データベース
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://skillicons.dev)
+
+### その他ツール・サービス
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,firebase,supabase,vercel)](https://skillicons.dev)
