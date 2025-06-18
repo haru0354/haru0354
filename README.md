@@ -8,11 +8,9 @@
 
 ## 🛠️ 技術スタック
 
-### フロントエンド（言語・ライブラリ・フレームワーク）
+### プログラミング言語（ライブラリ・フレームワーク含）
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs	)](https://skillicons.dev)
-
-### バックエンド(言語・ライブラリ・フレームワーク)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)](https://skillicons.dev)
 
